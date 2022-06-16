@@ -1,6 +1,7 @@
-*.swp
-*.tmp
-*.log
-
-coverage/
-node_modules/
+node_modules
+.DS_Store
+coverage
+tmp
+.jshintrc
+.npmignore
+npm-debug.log
